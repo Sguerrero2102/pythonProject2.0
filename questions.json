@@ -1,0 +1,60 @@
+[
+    {
+        "type": "multiple_choice",
+        "question": "What is Spider-Man's real name?",
+        "options": ["Peter Parker", "Clark Kent", "Bruce Wayne", "Tony Stark"],
+        "answer": "Peter Parker"
+    },
+    {
+        "type": "multiple_choice",
+        "question": "Who is Spider-Man's first love interest in the comics?",
+        "options": ["Mary Jane Watson", "Gwen Stacy", "Betty Brant", "Felicia Hardy"],
+        "answer": "Gwen Stacy"
+    },
+    {
+        "type": "multiple_choice",
+        "question": "Which newspaper does Peter Parker work for?",
+        "options": ["Daily Planet", "Daily Bugle", "New York Times", "The Gotham Gazette"],
+        "answer": "Daily Bugle"
+    },
+    {
+        "type": "multiple_choice",
+        "question": "What superpower does Spider-Man NOT have?",
+        "options": ["Wall-crawling", "Super strength", "X-ray vision", "Spider-sense"],
+        "answer": "X-ray vision"
+    },
+    {
+        "type": "open_ended",
+        "question": "Who created Spider-Man?",
+        "answer": "Stan Lee"
+    },
+    {
+        "type": "open_ended",
+        "question": "What radioactive creature gave Spider-Man his powers?",
+        "answer": "Spider"
+    },
+    {
+        "type": "multiple_choice",
+        "question": "In 'Spider-Man: Into the Spider-Verse,' who is the main Spider-Man variant?",
+        "options": ["Miles Morales", "Peter Parker", "Gwen Stacy", "Peter B. Parker"],
+        "answer": "Miles Morales"
+    },
+    {
+        "type": "open_ended",
+        "question": "What is the name of Spider-Man's arch-nemesis who wears a green suit and flies on a glider?",
+
+        "answer": "Green Goblin"
+    },
+    {
+        "type": "multiple_choice",
+        "question": "Which actor played Spider-Man in the first live-action trilogy?",
+        "options": ["Tobey Maguire", "Andrew Garfield", "Tom Holland", "Nicholas Hammond"],
+        "answer": "Tobey Maguire"
+    },
+    {
+        "type": "multiple_choice",
+        "question": "What is the name of the symbiote that turns Eddie Brock into Venom?",
+        "options": ["Carnage", "Toxin", "Anti-Venom", "Venom"],
+        "answer": "Venom"
+    }
+]
